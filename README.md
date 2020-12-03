@@ -49,3 +49,8 @@ $ python yovf.py
 
 Well, Enjoy
 
+### Give me Star
+please Give me star
+
+### Join Our Group
+https://chat.whatsapp.com/LnXrU9bqRFTK7DrEMmIJC8
