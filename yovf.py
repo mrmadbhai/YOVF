@@ -33,6 +33,3 @@ friend = pyttsx3.init()
 speech= input(cyan+bold+"write some thing here- "+clear)
 friend.say(speech)
 friend.runAndWait()
-
-
-#Made by Mr. Mad Bhai
